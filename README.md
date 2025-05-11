@@ -107,4 +107,4 @@ A: Android!
 
 
 📜 License
-Not sure yet but its free to download or build yourself. If you want to make money off of it you will definitely need a license because I am providing it for free for a reason. Thank you. 
+Not sure yet but its free to download or build yourself, if you plan to make money off of it, please purchase a license from me, its cheap and lifetime.
