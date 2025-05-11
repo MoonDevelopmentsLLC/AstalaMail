@@ -107,4 +107,4 @@ A: Android!
 
 
 📜 License
-Not sure yet but I really don't care what you do with Astalamail code as long as you can help me out with a shoutout that will actually be seen :). 
+Not sure yet but its free to download or build yourself. If you want to make money off of it you will definitely need a license because I am providing it for free for a reason. Thank you. 
