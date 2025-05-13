@@ -73,18 +73,18 @@ Why AstalaMail?
 
 ❓ FAQ
 
-Q: How does AstalaMail differ from Thunderbird or Mailspring?
+Q: How does AstalaMail differ from Thunderbird or Mailspring? <br>
 A: MoonDevelopmentsLLC doesn't access or have user data and won't change the policy. Its not reinventing the wheel—Astalamail integrates providers' native webmail UIs, so you theorhetically don't lose features like Gmail’s Smart Compose or Outlook’s Sweep Rules. 
 
-Q: Can I use this with a custom domain?
+Q: Can I use this with a custom domain?<br>
 A: Absolutely! IMAP/SMTP support works with any provider, including self-hosted solutions like Mailcow. The only requirement is a web interface. Pure imap support is a -WIP-
 
-Q: Is there mobile support?
+Q: Is there mobile support? <br>
 A: Android!
 
-Q: Release cycle? Software support?
+Q: Release cycle? Software support? <br>
 A: Maintained as long as MoonDevelopments is around or a community is there for it.
 
-📜 License
-Not sure yet but its free to download or build yourself, if you plan to make money off of it, please purchase a license from me, its cheap and lifetime. 
-When using any code from Astalamail, you automatically grant me the right to use the code from the project you include it in.
+📜 License <br>
+Open-Source, any project using the code must be open source as well. If you plan to make money off of it please introduce the product too me so I can benefit as well :) moon@moonala.com . 
+
