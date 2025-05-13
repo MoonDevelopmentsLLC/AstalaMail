@@ -55,21 +55,6 @@ Why AstalaMail?
     Self-Hosted Sync: Sync settings across devices via your own server. -WIP-
 
 
-📸 Screenshots -WIP-
-
-
-🛠️ Installation
-
-Prerequisites:
-
-     WIP
-
-
-Steps:
-
-bash
-git clone https://github.com/MoonDevelopmentsLLC/AstalaMail.git
-
 📖 Usage
 
     Add Accounts:
@@ -79,19 +64,11 @@ git clone https://github.com/MoonDevelopmentsLLC/AstalaMail.git
         
         Click Add Hosts
 
-        Select your provider or load a custom one.
-
-        Authenticate via OAuth2 or enter credentials securely. -WIP-
+        Select your provider or load a custom one
 
     Customize Layout:
-
-        Pin frequently used folders/providers.
         
         Rename any space or host
-
-🧩 Technical Overview
-
--WIP-
 
 
 ❓ FAQ
@@ -105,6 +82,8 @@ A: Absolutely! IMAP/SMTP support works with any provider, including self-hosted 
 Q: Is there mobile support?
 A: Android!
 
+Q: Release cycle? Software support?
+A: Maintained as long as MoonDevelopments is around or a community is there for it.
 
 📜 License
 Not sure yet but its free to download or build yourself, if you plan to make money off of it, please purchase a license from me, its cheap and lifetime. 
