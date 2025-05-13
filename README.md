@@ -1,6 +1,7 @@
-AstalaMail - A Webmail Client.
+# AstalaMail 
 
-A webmail client designed for privacy enthusiasts, productivity seekers, and multi-account power users.
+
+A webmail client designed for privacy enthusiasts, productivity seekers, multi-account power users, everyone really.
 
 
 🌟 Overview
