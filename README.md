@@ -1,8 +1,14 @@
 # AstalaMail 
+<table>
+  <tr>
+    <td>
+      <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=140,h=345,fit=crop/m5KMD6loVNFzveb4/mailnala-main-screenshot-Y4LDW5DE8gHW3JJg.png">
+    </td>
+  </tr>
+</table>
 
 
 A webmail client designed for privacy enthusiasts, productivity seekers, multi-account power users, and anyone really.
-
 
 🌟 Overview
 
