@@ -1,12 +1,12 @@
 # AstalaMail 
 
 
-A webmail client designed for privacy enthusiasts, productivity seekers, multi-account power users, everyone really.
+A webmail client designed for privacy enthusiasts, productivity seekers, multi-account power users, and anyone really.
 
 
 🌟 Overview
 
-AstalaMail redefines email management by combining privacy-first architecture with seamless integration of any email provider's native web client. Whether you use Gmail, Outlook, ProtonMail, or a custom domain, AstalaMail organizes your inboxes while preserving the unique features of each service. Theres no need to juggle many email apps or acclimate to "universal" clients that maintain only one UI independent of a providers featureset. Say goodbye to fragmented workflows and hello to a productivity-centric experience that adapts to your needs—not the other way around.
+AstalaMail redefines email management by combining privacy-first architecture with seamless integration of any email provider's native web client. Whether you use Gmail, Outlook, ProtonMail, or a custom domain, AstalaMail organizes your inboxes while preserving the unique features of each service. Theres no need to juggle many email apps or acclimate to "universal" clients that maintain only one UI independent of a providers featureset.
 
 Why AstalaMail?
 
@@ -74,7 +74,7 @@ Why AstalaMail?
 ❓ FAQ
 
 Q: How does AstalaMail differ from Thunderbird or Mailspring?
-A: MoonDevelopmentsLLC doesn't access or have user data. Its not reinventing the wheel—Astalamail integrates providers' native webmail UIs, so you theorhetically don't lose features like Gmail’s Smart Compose or Outlook’s Sweep Rules. 
+A: MoonDevelopmentsLLC doesn't access or have user data and won't change the policy. Its not reinventing the wheel—Astalamail integrates providers' native webmail UIs, so you theorhetically don't lose features like Gmail’s Smart Compose or Outlook’s Sweep Rules. 
 
 Q: Can I use this with a custom domain?
 A: Absolutely! IMAP/SMTP support works with any provider, including self-hosted solutions like Mailcow. The only requirement is a web interface. Pure imap support is a -WIP-
