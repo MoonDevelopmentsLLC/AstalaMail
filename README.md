@@ -11,22 +11,21 @@ Why AstalaMail?
 
     🛡️ Zero Compromises on Privacy: Your data stays with you and your chosen providers.
 
-    🚀 Native Provider Integration: Access Gmail labels, Outlook calendars, ProtonMail encryption, and more—all in one app.
+    🚀 Provider Webmail Integration: Access Gmail labels, Outlook calendars, ProtonMail encryption, and more—all in one app.
+         When your provider updates their webmail, its used immediately, no time consumption on your end.
 
     ⚡ Designed for Speed: The bottleneck is the internet speed.
 
 🎯 Features
 🔒 Privacy by Design
 
-    No Data Harvesting: We don’t mine your emails, track behavior, or sell analytics.
+    No Data Harvesting: I don’t mine your emails, track behavior, or sell analytics.
 
-    End-to-End Encryption (Future): Implementation for auto encryption of emails.
+    End-to-End Encryption (Future): Implementation for auto encryption of emails across all hosts.
 
-    Local Storage: All email data stays on your device unless explicitly sent.
+    Local Storage: All data stays on your device, providers/hosts won't know your other providers/hosts
 
 🌐 Universal Provider Support
-
-    Native Web Client Embedding: Directly embed your provider’s web interface (e.g., Gmail’s compose window) within AstalaMail’s UI.
 
     Lifecycle Automation: WIP
 
@@ -97,14 +96,15 @@ git clone https://github.com/MoonDevelopmentsLLC/AstalaMail.git
 ❓ FAQ
 
 Q: How does AstalaMail differ from Thunderbird or Mailspring?
-A: We don’t reinvent the wheel—we integrate providers' native UIs, so you never lose features like Gmail’s Smart Compose or Outlook’s Sweep Rules. We also don't access or have user data.
+A: MoonDevelopmentsLLC doesn't access or have user data. Its not reinventing the wheel—Astalamail integrates providers' native webmail UIs, so you theorhetically don't lose features like Gmail’s Smart Compose or Outlook’s Sweep Rules. 
 
 Q: Can I use this with a custom domain?
-A: Absolutely! IMAP/SMTP support works with any provider, including self-hosted solutions like Mailcow.
+A: Absolutely! IMAP/SMTP support works with any provider, including self-hosted solutions like Mailcow. The only requirement is a web interface. Pure imap support is a -WIP-
 
 Q: Is there mobile support?
 A: Android!
 
 
 📜 License
-Not sure yet but its free to download or build yourself, if you plan to make money off of it, please purchase a license from me, its cheap and lifetime.
+Not sure yet but its free to download or build yourself, if you plan to make money off of it, please purchase a license from me, its cheap and lifetime. 
+When using any code from Astalamail, you automatically grant me the right to use the code from the project you include it in.
