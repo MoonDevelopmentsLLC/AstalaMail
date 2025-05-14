@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-Last updated 5/14/2025 - First pre-alpha test<br>
+Last updated 5/14/2025 <br> First pre-alpha test<br>
 A webmail client designed for privacy enthusiasts, productivity seekers, multi-account power users, and anyone really.
 
 🌟 Overview
