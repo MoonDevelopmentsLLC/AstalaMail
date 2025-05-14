@@ -76,6 +76,10 @@ Why AstalaMail?
         
         Rename any space or host
 
+    Save Logins:
+
+        Currently stored encrypted with AES, but this is in the very first beta release, use at your own risk.
+
 
 ❓ FAQ
 
@@ -90,4 +94,8 @@ A: Maintained as long as MoonDevelopments is around or a community is there for 
 
 📜 License <br>
 Open-Source, any project using the code must be open source as well and give an attribution to Moonala.com. Please introduce the project too me so I can check it out :) moon@moonala.com . 
+
+
+
+<br> I make no warranties or guaruntees, if you use this code in any way or the pre compiled builds, you agree not to sue me.
 
