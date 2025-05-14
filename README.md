@@ -92,5 +92,5 @@ Q: Release cycle? Software support? <br>
 A: Maintained as long as MoonDevelopments is around or a community is there for it.
 
 📜 License <br>
-Open-Source, any project using the code must be open source as well. If you plan to make money off of it please introduce the product too me so I can benefit as well :) moon@moonala.com . 
+Open-Source, any project using the code must be open source as well. Please introduce the project too me so I can check it out :) moon@moonala.com . 
 
