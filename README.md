@@ -12,11 +12,11 @@ A webmail client designed for privacy enthusiasts, productivity seekers, multi-a
 
 🌟 Overview
 
-AstalaMail redefines email management by combining privacy-first architecture with seamless integration of any email provider's native web client. Whether you use Gmail, Outlook, ProtonMail, or a custom domain, AstalaMail organizes your inboxes while preserving the unique features of each service. Theres no need to juggle many email apps or acclimate to "universal" clients that maintain only one UI independent of a providers featureset.
+AstalaMail conducts email management by combining privacy-first architecture with integration of any email provider's native web client. Whether you use Gmail, Outlook, ProtonMail, or a custom domain, AstalaMail organizes your inboxes while preserving the unique features of each service. Theres no need to juggle many email apps or acclimate to "universal" clients that maintain only one UI independent of a providers featureset.
 
 Why AstalaMail?
 
-    🛡️ Zero Compromises on Privacy: Your data stays with you and your chosen providers.
+    🛡️ Zero Compromises on Privacy: Your data stays with you and if applicable, your chosen providers.
 
     🚀 Provider Webmail Integration: Access Gmail labels, Outlook calendars, ProtonMail encryption, and more—all in one app.
          When your provider updates their webmail, its used immediately, no time consumption on your end.
@@ -26,9 +26,9 @@ Why AstalaMail?
 🎯 Features
 🔒 Privacy by Design
 
-    No Data Harvesting: I don’t mine your emails, track behavior, or sell analytics.
+    No Data Harvesting: I don’t mine your emails, track behavior, or sell analytics. I don't use telemetry and don't include logs in pre-compiled builds. (Stripped by compilation)
 
-    End-to-End Encryption (Future): Implementation for auto encryption of emails across all hosts.
+    End-to-End Encryption (Future): Implementation for auto encryption of email sent across all hosts.
 
     Local Storage: All data stays on your device, providers/hosts won't know your other providers/hosts
 
