@@ -8,11 +8,11 @@
 </table>
 
 Last updated 5/14/2025 <br> First pre-alpha test<br>
-A webmail client designed for privacy enthusiasts, productivity seekers, multi-account power users, and anyone really.
+A webmail client designed for privacy enthusiasts, productivity seekers, multi account power users, and anyone really.
 
 🌟 Overview
 
-AstalaMail conducts email management by combining privacy-first architecture with integration of any email provider's native web client. Whether you use Gmail, Outlook, ProtonMail, or a custom domain, AstalaMail organizes your inboxes while preserving the unique features of each service. Theres no need to juggle many email apps or acclimate to "universal" clients that maintain only one UI independent of a providers featureset.
+AstalaMail conducts email management by combining privacy architecture with integration of any email provider's native web client. Whether you use Gmail, Outlook, ProtonMail, or a custom domain, AstalaMail organizes your inboxes while preserving the unique features of each service. Theres no need to juggle many email apps or acclimate to "universal" clients that maintain only one UI independent of a providers featureset.
 
 Why AstalaMail?
 
